@@ -17,7 +17,7 @@ body
 
 .hero
 {
-    width: 50vw;
+    width: 35%;
     height: 50vh;
     display: flex;
     flex-direction: column;
